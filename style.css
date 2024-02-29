@@ -3,7 +3,7 @@
 }
 
 main {
-  height: 93vh;
+  height: 94vh;
   background-color: #f6fafd;
   display: flex;
   flex-direction: column;
@@ -42,7 +42,7 @@ main {
   backdrop-filter: blur(20px);
   border-radius: 100%;
   position: absolute;
-  top: 43%;
+  top: 42%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
